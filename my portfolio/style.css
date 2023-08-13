@@ -1,0 +1,112 @@
+body{
+    background-color: rgba(2, 6, 51, 0.858);
+}
+
+.heading
+{
+    display: inline-flex;
+    gap:300px;
+    background-color: rgb(97, 93, 196);
+    height: 70px;
+    padding-top: 10px;
+    
+}
+.left{
+    color: white;
+    padding-left: 50px;
+    font-size: 20px;
+    
+}
+.right
+{
+    display: inline-flex;
+    gap:25px;
+    color: white;
+    margin-left: 100px;
+    padding-right: 90px;
+    color: aliceblue;
+    
+}
+.my
+{
+    width: 802px;
+}
+.intro
+{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.leftinfo
+{
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 600px;
+    height: 400px;
+    font-size: 50px;
+    color: white;
+}
+.rightinfo{
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+    
+}
+a:link
+{
+
+    color: rgb(249, 242, 242);
+}
+a:hover
+{
+    color: red;
+}
+#element
+{
+    color:rgba(205, 101, 37, 0.858);
+    text-decoration: underline;
+}
+#partion
+{
+    width: 118%;
+}
+.work
+{
+    color:white;
+    margin-left: 20px;
+    
+    
+
+}
+#line{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.list
+{
+    color: rgba(236, 236, 15, 0.822);
+}
+.footer
+{
+    display: flex;
+    background-color: beige;
+    height: 233px;
+    padding: 23px 122px;
+    justify-content: space-evenly;
+}
+.footer ul{
+    list-style: none;
+}
+.footer> div
+{
+    width: 223px;
+}
+.text-center
+{
+    color: black;
+}
